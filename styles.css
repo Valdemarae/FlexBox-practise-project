@@ -105,3 +105,27 @@ a {
     border: 2px solid blue;
     border-radius: 20%;
 }
+.quote {
+    background-color: #edeeef;
+    height: 315px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sentences {
+    width: 630px;
+}
+.author {
+    width: 630px;
+    align-self: flex-end;
+}
+.sentences p {
+    font-size: 26px;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.author h6 {
+    font-size: 24px;
+    margin: 0;
+}
