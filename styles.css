@@ -129,3 +129,35 @@ a {
     font-size: 24px;
     margin: 0;
 }
+.signup {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    background-color: rgb(100, 172, 255); 
+    height: 95px;
+    width: 1000px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box .text {
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.box .text p {
+    margin-top: -12px;
+}
+.sign-button button{
+    background-color: rgb(100, 172, 255);
+    border: 2px solid white;
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    font-size: larger;
+}
