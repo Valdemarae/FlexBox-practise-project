@@ -118,7 +118,7 @@ a {
 }
 .author {
     width: 630px;
-    align-self: flex-end;
+    text-align: right;
 }
 .sentences p {
     font-size: 26px;
