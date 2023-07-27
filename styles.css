@@ -161,3 +161,14 @@ a {
     border-radius: 10px;
     font-size: larger;
 }
+.footer {
+    height: 100px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer .middle {
+    color: white;
+    font: 15px;
+}
